@@ -20,3 +20,8 @@ There are several levels of concepts that can be explained using a series of sev
 Interest of the students will use. 
 Link: https://drive.google.com/file/d/1M5r2EzO0r_0hreE6m3-VQfVUXmhJoc90/view?usp=sharing 
 
+
+# Sources
+Some content used in the described workshops has been taken from the Q-AMeLiA project (q-amelia.in.hs-furtwangen.de/). 
+![QAMeLiA: Quality Assurance of Machine Learning Applications](Q-AMeLiA.PNG)
+
